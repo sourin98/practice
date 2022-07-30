@@ -1,2 +1,2 @@
 # practice
-This is just for practicde purpose.
+This is just for practice purpose.
